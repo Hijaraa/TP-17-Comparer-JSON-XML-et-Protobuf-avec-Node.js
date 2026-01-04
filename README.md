@@ -59,7 +59,6 @@ Taille de 'data.proto': 41 octets
 - `protobufjs` : Pour la sérialisation/désérialisation Protobuf
 - `xml-js` : Pour la conversion entre JSON et XML
 
-## Auteur
+<img width="878" height="886" alt="image" src="https://github.com/user-attachments/assets/891439d7-9a66-41b1-bde6-0c8550de1c83" />
 
-TP-17 - Comparaison des formats de sérialisation
 
